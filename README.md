@@ -39,7 +39,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Debarpan-Middya/Blinkr.git
+git clone https://github.com/Debarpan-Middya/blinkr.git
 ```
 
 ### Install packages
